@@ -1,16 +1,51 @@
-# number_app
+![TDD-And-Clean-Architecture-Flutter](https://user-images.githubusercontent.com/36957530/159905310-5bcb18c8-5ecf-40ee-9242-e79cb0a24902.png)
 
-A new Flutter project.
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## Getting Started
+# TDD-And-Clean-Achitecture-Flutter:
 
-This project is a starting point for a Flutter application.
+This repo has a path for Tdd and clean architecture in Flutter.
+I will use mainly the Reso coder tutorial and other resources like(videos, images, articles ..).
 
-A few resources to get you started if this is your first Flutter project:
+## Installation:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Just download the repo and you are good to go.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Overview:
+
+Here is the path and I will share useful links as I said until I finish the Reso coder course:
+
+1. Flutter TDD Clean Architecture Course [1] – Explanation & Project Structure.
+2. Flutter TDD Clean Architecture Course [2] – Entities & Use Cases.
+3. Flutter TDD Clean Architecture Course [3] – Domain Layer Refactoring.
+
+
+## Here are the details for each section:
+
+### Flutter TDD Clean Architecture Course [1] – Explanation & Project Structure:
+ 
+#### Links:
+ 1. [Clean Architecture with Robert Martin a.k.a. Uncle Bob](https://www.youtube.com/watch?v=ekBWizEpyvo&t=965s&ab_channel=OtavioLemos).
+ 2. [Explanation & Project Structure](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/).
+ 
+
+###  Flutter TDD Clean Architecture Course [2] – Entities & Use Cases:
+ 
+#### Links:
+ 1. [Here is good to learn about mockito befor to go with the TDD](https://pub.dev/documentation/mockito/latest/).
+ 2. [Entities & Use Cases](https://resocoder.com/2019/08/29/flutter-tdd-clean-architecture-course-2-entities-use-cases/).
+ 
+ 
+ 
+###  Flutter TDD Clean Architecture Course [3] – Domain Layer Refactoring:
+ 
+#### Links:
+ 1. [Domain Layer Refactoring](https://resocoder.com/2019/09/02/flutter-tdd-clean-architecture-course-3-domain-layer-refactoring/).
+ 
+ 
+## License:
+
+MIT
+
+**Free Software**
