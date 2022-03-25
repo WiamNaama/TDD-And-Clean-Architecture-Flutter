@@ -31,6 +31,10 @@ Here is the path and I will share useful links as I said until I finish the Reso
  
 
 ###  Flutter TDD Clean Architecture Course [2] – Entities & Use Cases:
+
+### Note:
+    When you want to use mockito just follow this steps in order to work because of null safety:
+    <img width="441" alt="NullSafetyMock" src="https://user-images.githubusercontent.com/36957530/160082918-4ffa29c2-5e2c-4dbb-bc94-689f6119871f.PNG">
  
 #### Links:
  1. [Here is good to learn about mockito befor to go with the TDD](https://pub.dev/documentation/mockito/latest/).
