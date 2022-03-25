@@ -20,6 +20,7 @@ Here is the path and I will share useful links as I said until I finish the Reso
 2. Flutter TDD Clean Architecture Course [2] – Entities & Use Cases.
 3. Flutter TDD Clean Architecture Course [3] – Domain Layer Refactoring.
 4. Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models.
+5. Flutter TDD Clean Architecture Course [5] – Contracts of Data Sources.
 
 
 ## Here are the details for each section:
@@ -52,6 +53,14 @@ Here is the path and I will share useful links as I said until I finish the Reso
 ### Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models:
  
 #### Links:
+ 1. [Data Layer Overview & Models](https://resocoder.com/2019/09/09/flutter-tdd-clean-architecture-course-4-data-layer-overview-models/).
+ 
+
+
+### Flutter TDD Clean Architecture Course [5] – Contracts of Data Sources:
+ 
+#### Links:
+ 1. [Contracts of Data Sources](https://resocoder.com/2019/09/12/flutter-tdd-clean-architecture-course-5-contracts-of-data-sources/).
  
 
  
