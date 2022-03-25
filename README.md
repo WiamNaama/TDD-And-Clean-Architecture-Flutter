@@ -19,6 +19,7 @@ Here is the path and I will share useful links as I said until I finish the Reso
 1. Flutter TDD Clean Architecture Course [1] – Explanation & Project Structure.
 2. Flutter TDD Clean Architecture Course [2] – Entities & Use Cases.
 3. Flutter TDD Clean Architecture Course [3] – Domain Layer Refactoring.
+4. Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models.
 
 
 ## Here are the details for each section:
@@ -33,7 +34,7 @@ Here is the path and I will share useful links as I said until I finish the Reso
 ###  Flutter TDD Clean Architecture Course [2] – Entities & Use Cases:
 
 ### Note:
-   When you want to use mockito just follow this steps in order to work because of null safety:
+   When you want to use mockito just follow these steps in order to work because of null safety:
   ![Mockito null safety](https://user-images.githubusercontent.com/36957530/160082918-4ffa29c2-5e2c-4dbb-bc94-689f6119871f.PNG)
  
 #### Links:
@@ -47,6 +48,12 @@ Here is the path and I will share useful links as I said until I finish the Reso
 #### Links:
  1. [Domain Layer Refactoring](https://resocoder.com/2019/09/02/flutter-tdd-clean-architecture-course-3-domain-layer-refactoring/).
  
+ 
+### Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models:
+ 
+#### Links:
+ 
+
  
 ## License:
 
