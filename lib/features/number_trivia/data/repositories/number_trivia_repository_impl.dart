@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 import 'package:number_app/core/errors/exception.dart';
 import 'package:number_app/core/errors/failure.dart';
 import 'package:number_app/core/network/network_info.dart';
-import 'package:number_app/features/number_trivia/data/datasources/number_rrivia_remote_data_source.dart';
+import 'package:number_app/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:number_app/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:number_app/features/number_trivia/data/models/number_trivia_model.dart';
 import 'package:number_app/features/number_trivia/domain/entities/number_trivia.dart';
