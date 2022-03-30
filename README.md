@@ -21,6 +21,9 @@ Here is the path and I will share useful links as I said until I finish the Reso
 3. Flutter TDD Clean Architecture Course [3] – Domain Layer Refactoring.
 4. Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models.
 5. Flutter TDD Clean Architecture Course [5] – Contracts of Data Sources.
+6. Flutter TDD Clean Architecture Course [6] – Repository Implementation.
+7. Flutter TDD Clean Architecture Course [7] – Network Info.
+8. Flutter TDD Clean Architecture Course [8] – Local Data Source.
 
 
 ## Here are the details for each section:
@@ -51,18 +54,55 @@ Here is the path and I will share useful links as I said until I finish the Reso
  
  
 ### Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models:
- 
+
+### Notes:
+ 1. Read about factory constructor in dart.
+ 2. Read about the fixture in testing and why we might need it.
+
 #### Links:
  1. [Data Layer Overview & Models](https://resocoder.com/2019/09/09/flutter-tdd-clean-architecture-course-4-data-layer-overview-models/).
  
 
 
 ### Flutter TDD Clean Architecture Course [5] – Contracts of Data Sources:
+
+#### Note:
+1. Read about erver exceptions.
  
 #### Links:
  1. [Contracts of Data Sources](https://resocoder.com/2019/09/12/flutter-tdd-clean-architecture-course-5-contracts-of-data-sources/).
- 
 
+
+ 
+### Flutter TDD Clean Architecture Course [6] – Repository Implementation:
+
+#### Note:
+1. Read about Typedef in dart.
+ 
+#### Links:
+ 1. [Repository Implementation](https://resocoder.com/2019/09/19/flutter-tdd-clean-architecture-course-6-repository-implementation/).
+
+
+### Flutter TDD Clean Architecture Course [7] – Network Info:
+
+#### Note:
+1. This note related to test file:
+   Use the internet connection checker instead of the Data connection checker because it supports null safety.
+
+ 
+#### Links:
+ 1. [Network Info](https://resocoder.com/2019/09/23/flutter-tdd-clean-architecture-course-7-network-info/).
+
+
+### Flutter TDD Clean Architecture Course [8] – Local Data Source:
+
+#### Note:
+1. [Naming convention of the interface implementation](https://octoperf.com/blog/2016/10/27/impl-classes-are-evil/#serviceimpl-is-a-common-practice).
+2. [Unit testing fixing error in setString on mocked ](https://stackoverflow.com/questions/69514208/missing-stub-error-on-mockito-in-flutter-trying-to-use-setstring-on-mocked-shar).
+
+ 
+#### Links:
+ 1. [Local Data Source](https://resocoder.com/2019/09/26/flutter-tdd-clean-architecture-course-8-local-data-source/).
  
 ## License:
 
