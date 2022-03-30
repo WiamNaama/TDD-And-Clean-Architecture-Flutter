@@ -55,7 +55,7 @@ Here is the path and I will share useful links as I said until I finish the Reso
  
 ### Flutter TDD Clean Architecture Course [4] – Data Layer Overview & Models:
 
-### Notes:
+#### Notes:
  1. Read about factory constructor in dart.
  2. Read about the fixture in testing and why we might need it.
 
@@ -96,7 +96,7 @@ Here is the path and I will share useful links as I said until I finish the Reso
 
 ### Flutter TDD Clean Architecture Course [8] – Local Data Source:
 
-#### Note:
+#### Notes:
 1. [Naming convention of the interface implementation](https://octoperf.com/blog/2016/10/27/impl-classes-are-evil/#serviceimpl-is-a-common-practice).
 2. [Unit testing fixing error in setString on mocked ](https://stackoverflow.com/questions/69514208/missing-stub-error-on-mockito-in-flutter-trying-to-use-setstring-on-mocked-shar).
 
