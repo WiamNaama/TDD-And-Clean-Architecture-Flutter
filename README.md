@@ -24,6 +24,12 @@ Here is the path and I will share useful links as I said until I finish the Reso
 6. Flutter TDD Clean Architecture Course [6] – Repository Implementation.
 7. Flutter TDD Clean Architecture Course [7] – Network Info.
 8. Flutter TDD Clean Architecture Course [8] – Local Data Source.
+9. Flutter TDD Clean Architecture Course [9] – Remote Data Source.
+10. Flutter TDD Clean Architecture Course [10] – Bloc Scaffolding & Input Conversion.
+11. Flutter TDD Clean Architecture Course [11] – Bloc Implementation 1/2.
+12. Flutter TDD Clean Architecture Course [12] – Bloc Implementation 2/2.
+13. Flutter TDD Clean Architecture Course [13] – Dependency Injection.
+14. Flutter TDD Clean Architecture Course [14] – User Interface.
 
 
 ## Here are the details for each section:
@@ -104,6 +110,58 @@ Here is the path and I will share useful links as I said until I finish the Reso
  
 #### Links:
  1. [Local Data Source](https://resocoder.com/2019/09/26/flutter-tdd-clean-architecture-course-8-local-data-source/).
+
+
+
+### Flutter TDD Clean Architecture Course [9] – Remote Data Source:
+ 
+#### Links:
+ 1. [Remote Data Source](https://resocoder.com/2019/10/03/flutter-tdd-clean-architecture-course-9-remote-data-source/).
+
+
+
+### Flutter TDD Clean Architecture Course [10] – Bloc Scaffolding & Input Conversion:
+
+#### Notes:
+1. [Here is a course for the new version of BLoC](https://www.youtube.com/watch?v=Mn254cnduOY&ab_channel=VandadNahavandipoor).
+
+
+#### Links:
+1. [Bloc Scaffolding & Input Conversion](https://resocoder.com/2019/10/07/flutter-tdd-clean-architecture-course-10-bloc-scaffolding-input-conversion/).
+
+
+### Flutter TDD Clean Architecture Course [11] – Bloc Implementation 1/2:
+ 
+#### Links:
+ 1. [Bloc Implementation 1/2](https://resocoder.com/2019/10/10/flutter-tdd-clean-architecture-course-11-bloc-implementation/).
+
+
+
+### Flutter TDD Clean Architecture Course [12] – Bloc Implementation 2/2:
+
+#### Notes:
+1. [I recommend to learn about sealed unions in Dart first](https://www.youtube.com/watch?v=AG8pwM6f130&ab_channel=ResoCoder).
+
+
+#### Links:
+1. [Bloc Implementation 2/2](https://resocoder.com/2019/10/14/flutter-tdd-clean-architecture-course-11-bloc-implementation-2-2/).
+ 
+ 
+
+### Flutter TDD Clean Architecture Course [13] – Dependency Injection:
+
+#### Notes:
+1. [Here is a great video about Dependency Injection from Microsoft](https://www.youtube.com/watch?v=QtDTfn8YxXg&t=335s&ab_channel=MicrosoftVisualStudio).
+
+
+#### Links:
+1. [Dependency Injection](https://resocoder.com/2019/10/21/flutter-tdd-clean-architecture-course-13-dependency-injection-user-interface/). 
+
+
+### Flutter TDD Clean Architecture Course [14] – User Interface:
+ 
+#### Links:
+ 1. [User Interface](https://resocoder.com/2019/10/29/flutter-tdd-clean-architecture-course-14-user-interface/).
  
 ## License:
 
